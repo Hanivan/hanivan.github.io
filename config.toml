@@ -1,0 +1,6 @@
+baseURL = "https://hanivan.github.io"
+languageCode = "en-us"
+title = "Hanivan's Web"
+theme = "ananke"
+[permalinks]
+	posts = "/:year/:month/:title/"
